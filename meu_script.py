@@ -54,8 +54,6 @@ def main():
     # Aguarda os resultados carregarem
     time.sleep(5)  # Aguarda 5 segundos (ajuste conforme necessário)
     
-    # Aqui você pode adicionar mais automações com Selenium, como interagir com o vídeo ou realizar outras ações
-    # driver.find_element(By.ID, 'search-icon-legacy').click()
 
     # Aguarda um pouco antes de fechar
     input("Pressione Enter para fechar...")
