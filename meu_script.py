@@ -6,7 +6,7 @@ import time
 
 # Configurações
 API_KEY = 'SUA_API_KEY'  # Substitua com sua chave de API
-SEARCH_QUERY = 'musica popular'  # Pode ser qualquer tipo de música ou artista
+SEARCH_QUERY = 'musica '  # Pode ser qualquer tipo de música ou artista
 BASE_URL = 'https://www.googleapis.com/youtube/v3/search'
 
 # Função para buscar vídeos usando a API do YouTube
